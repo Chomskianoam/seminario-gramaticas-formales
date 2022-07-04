@@ -72,7 +72,7 @@ Para cumplir con la regularidad en este seminario, es necesario realizar una ser
     <td>
     <ul>
     	<li><a href="./Clase-03/handout.pdf">Apunte sobre jerarquía de Chomsky</a></li>
-    	<li><a href="./Clase-03/Clase-03-jupyter.md">Notebook librería re</a></li>
+    	<li><a href="./Clase-03/Clase-03-jupyter.md">Notebook sobre librería re</a></li>
     </ul>
     </td>
   </tr>
@@ -88,7 +88,7 @@ Para cumplir con la regularidad en este seminario, es necesario realizar una ser
     <td>
       <ul>
       	<li><a href="./Clase-04/handout.pdf">Apunte sobre CFG</a></li>
-        <li><a href="./Clase-04/Clase-04-jupyter.md">Visualización de Notebook</a></li>	
+        <li><a href="./Clase-04/Clase-04-jupyter.md">Notebook sobre CFG</a></li>	
         <li><a href="./TPs/tp2.md">TP #2</a></li>
       </ul>
     </td>
@@ -182,6 +182,9 @@ Para cumplir con la regularidad en este seminario, es necesario realizar una ser
       </ul>
     </td>
     <td>
+      <ul>
+        <li><a href="./Clase-10/handout.pdf">Apunte sobre LFG</a></li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -196,7 +199,7 @@ Para cumplir con la regularidad en este seminario, es necesario realizar una ser
     </td>
     <td>
       <ul>
-        <li><a href="./Clase-11/Clase-11-jupyter.md">Visualización de Notebook</a></li>
+        <li><a href="./Clase-11/handout.pdf">Apunte sobre Gramáticas de Dependencias</a></li>
       </ul>
     </td>
   </tr>
@@ -211,7 +214,9 @@ Para cumplir con la regularidad en este seminario, es necesario realizar una ser
     </td>
     <td>
       <ul>
-        <li><a href="./Clase-12/Clase-12-jupyter.md">Visualización de Notebook</a></li>
+        <li><a href="./Clase-12/handout.pdf">Apunte sobre DG como cuádrupla</a></li>
+        <li><a href="./Clase-12/dependency-parsers.md">Notebook sobre DP</a></li>
+        <li><a href="./Clase-12/spacy-intro.md">Notebook sobre spaCy</a></li>
       </ul>
     </td>
   </tr>
@@ -227,6 +232,7 @@ Para cumplir con la regularidad en este seminario, es necesario realizar una ser
     <td>
       <ul>
         <li><a href="./Clase-13/Clase-13-jupyter.md">Visualización de Notebook</a></li>
+        <li><a href="./Clase-13/handout.pdf">Apunte de introducción a gramáticas categoriales</a></li>
       </ul>
     </td>
   </tr>
@@ -241,7 +247,9 @@ Para cumplir con la regularidad en este seminario, es necesario realizar una ser
     </td>
     <td>
       <ul>
+        <li><a href="./Clase-14/handout.pdf">Apunte sobre gramáticas categoriales generalizadas</a></li>
         <li><a href="./Clase-14/Clase-14-jupyter.md">Visualización de Notebook</a></li>
+        <li><a href="./TPs/tp4.pdf">TP4</a></li>
       </ul>
     </td>
   </tr>
