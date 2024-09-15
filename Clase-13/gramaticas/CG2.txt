@@ -1,10 +1,13 @@
 :- S, N
 
+D :: N/N
+TV :: (S\N)/N
+DTV :: TV/N
 	
-el => N/N
-la => N/N
-una => N/N
-un => N/N
+el => D
+la => D
+una => D
+un => D
 
 julia => N
 cata => N
@@ -24,11 +27,11 @@ tabaco => N
 fuma => S\N
 habla => S\N
 
-conoce => (S\N)/N
-mira => (S\N)/N
+conoce => TV
+mira => TV
 
-envió => ((S\N)/N)/N
-entregó => ((S\N)/N)/N
+envió => DTV
+entregó => DTV
 
 a => N/N
 
